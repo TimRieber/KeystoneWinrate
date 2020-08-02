@@ -1,5 +1,5 @@
 # KeystoneWinrate
-Keystone win rate of a player given desired timeframe, champions and queues
+Keystone win rate of a player given desired timeframe, champions and queues using https://github.com/meraki-analytics/orianna
 
 1. Clone project
 2. Import Maven dependencies
